@@ -1,0 +1,20 @@
+[package]
+name = "mycelium"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[lib]
+name = "mycelium"
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+#elixir integrator
+rustler = "0.26.0"
+#graph ql client
+cynic = "2.0.1"
+#for hardware fault monitoring
+systemstat = "0.2.2"
+#for gpu compute
+vulkano = "0.32.0"

@@ -1,0 +1,7 @@
+*.lock
+/priv/
+/.idea/
+/_build/
+/deps/
+/native/taproot/target/
+/native/mycelium/target/
