@@ -1,21 +1,9 @@
-# LotusServer
-
-**TODO: Add description**
+# Lotus Server Stack
+**this hosts and serves [lotusroot.dev](https://lotusroot.dev/)**
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `lotus_server` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:lotus_server, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/lotus_server>.
-
+**Environment requirements:**
+`python3`
+`elixir`
+`rust`
