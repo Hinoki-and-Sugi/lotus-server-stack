@@ -16,3 +16,5 @@ erl_crash.dump
 __pycache__/
 *.pyc
 *.pdb
+/lotus_seed_maintenance_tool/lotus_seed_maintenance_tool.egg-info/
+/lotus_seed_maintenance_tool/dist/
