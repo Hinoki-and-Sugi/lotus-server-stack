@@ -36,8 +36,6 @@
     <img alt="Stars Badge" height="20" src="https://img.shields.io/github/stars/MININT2/lotus-server-stack.svg?style=social&label=Star&maxAge=2592000"/>
 </div>
 
-**this hosts and serves [https://lotusroot.dev](https://lotusroot.dev/) in action**
-
 ## Installation
 **Environment requirements:**
 - [python3](https://www.python.org/)
