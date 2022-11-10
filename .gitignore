@@ -10,11 +10,11 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
-.elixir_ls/
-/native/taproot/target/
-/native/mycelium/target/
-__pycache__/
+.elixir_ls
+/native/taproot/target
+/native/mycelium/target
+__pycache__
 *.pyc
 *.pdb
-/lotus_seed_maintenance_tool/lotus_seed_maintenance_tool.egg-info/
-/lotus_seed_maintenance_tool/dist/
+/lotus_seed_maintenance_tool/lotus_seed_maintenance_tool.egg-info
+/lotus_seed_maintenance_tool/dist
