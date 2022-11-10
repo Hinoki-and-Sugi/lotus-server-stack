@@ -30,9 +30,6 @@
     <a href="https://lotusroot.dev/dono/ltc">
         <img alt="ZEC Badge" height="20" src="https://img.shields.io/badge/LTC-A6A9AA?logo=litecoin&logoColor=fff&style=flat-square"/>
     </a>
-    <a href="https://lotusroot.dev/dono/ltc">
-        <img alt="ZEC Badge" height="20" src="https://img.shields.io/badge/LTC-A6A9AA?logo=litecoin&logoColor=fff&style=flat-square"/>
-    </a>
     <img alt="Stars Badge" height="20" src="https://img.shields.io/github/stars/MININT2/lotus-server-stack.svg?style=social&label=Star&maxAge=2592000"/>
 </div>
 
@@ -64,8 +61,8 @@ LSS is a 100% community-sponsored endeavor. If you want to join our efforts, the
 The XMR donation address is:    
 `49JBVmpdkwqRoLxSZh7JMNHgSTM58KMsSG2Ydb3Nt8K2ao4RMXLcQSsKxWFKNRb8tGK7Tn4Sks11gefJWR9JT2EQFzzhpws`
 
-The BTC donation address is:    
-`bc1qjkh0g3knct9w6xyuc9kqf89tudakg774jaz2my`
+The LTC donation address is:    
+`LbNomrHpHE8cmQj2M1F6QasjRtCtiUpZtN`
 
 The ZEC donation address is:    
 `t1VmSHZ97zrEaE3G2b3FRNbiTeQTgR13kfG`
