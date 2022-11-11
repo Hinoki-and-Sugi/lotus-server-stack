@@ -44,7 +44,7 @@ mix deps.get
 
 cd lotus_seed_maintenance_tool
 
-python -m pip install --upgrade pip build setuptools wheel
+py -m pip install --upgrade pip build setuptools wheel
 ```
 
 ## Compilation
