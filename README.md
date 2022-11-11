@@ -1,12 +1,12 @@
 <div align="center">
-    <a href="https://github.com/MININT2/">
+    <a href="https://github.com/Hinoki-and-Sugi/">
         <img src="res/icon.png" height="300">
     </a>
     <h1>Lotus Server Stack</h1>
     <h3>a high performance, high volume, fault-tolerant full stack web-server</h3>
-    <img alt="Contributor Counter Badge" height="20" src="https://img.shields.io/github/contributors-anon/MININT2/lotus-server-stack?style=flat-square"/>
-    <img alt="Repo Size Badge" height="20" src="https://img.shields.io/github/repo-size/MININT2/lotus-server-stack?style=flat-square"/>
-    <img alt="Github Sponsors Badge" height="20" src="https://img.shields.io/github/sponsors/MININT2?style=flat-square"/>
+    <img alt="Contributor Counter Badge" height="20" src="https://img.shields.io/github/contributors-anon/Hinoki-and-Sugi/lotus-server-stack?style=flat-square"/>
+    <img alt="Repo Size Badge" height="20" src="https://img.shields.io/github/repo-size/Hinoki-and-Sugi/lotus-server-stack?style=flat-square"/>
+    <img alt="Github Sponsors Badge" height="20" src="https://img.shields.io/github/sponsors/Hinoki-and-Sugi?style=flat-square"/>
     <br>
     <a href="https://github.com/docker">
         <img alt="Docker Badge" height="20" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square"/>
@@ -30,7 +30,7 @@
     <a href="https://lotusroot.dev/dono/ltc">
         <img alt="ZEC Badge" height="20" src="https://img.shields.io/badge/LTC-A6A9AA?logo=litecoin&logoColor=fff&style=flat-square"/>
     </a>
-    <img alt="Stars Badge" height="20" src="https://img.shields.io/github/stars/MININT2/lotus-server-stack.svg?style=social&label=Star&maxAge=2592000"/>
+    <img alt="Stars Badge" height="20" src="https://img.shields.io/github/stars/Hinoki-and-Sugi/lotus-server-stack.svg?style=social&label=Star&maxAge=2592000"/>
 </div>
 
 ## Installation
@@ -44,7 +44,7 @@ mix deps.get
 
 cd lotus_seed_maintenance_tool
 
-python -m pip install --upgrade pip build setuptools wheel
+py -m pip install --upgrade pip build setuptools wheel
 ```
 
 ## Compilation
