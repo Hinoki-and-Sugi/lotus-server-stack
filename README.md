@@ -35,14 +35,15 @@
 
 ## Installation
 **Environment requirements:**
-- [python3](https://www.python.org/)
-- [elixir](https://elixir-lang.org/)
-- [rust](https://www.rust-lang.org/)
+
+[python3](https://www.python.org/) [elixir](https://elixir-lang.org/) [rust](https://www.rust-lang.org/)
 
 **install all the dependencies:**
 ```shell
 mix deps.get
-cd /lotus_seed_maintenance_tool
+
+cd lotus_seed_maintenance_tool
+
 python -m pip install --upgrade pip build setuptools wheel
 ```
 
@@ -50,19 +51,24 @@ python -m pip install --upgrade pip build setuptools wheel
 > ⚠️ **Warning:** This is unfinished _**INDEV**_ software, things will break
 ```shell
 mix compile
+
 cd lotus_seed_maintenance_tool
+
 py -m build
 ```
 
-## Supporting the project
+## TODO:
+- work on the updater, make it compile newer versions from git
+- work on serving a page from a directory over https with cowboy
 
+## Supporting the project
 LSS is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. Both Monero and Bitcoin donations can be made to **donate.lotusroot.dev** if using a client that supports the [OpenAlias](https://openalias.org) standard.
 
-The XMR donation address is:    
-`49JBVmpdkwqRoLxSZh7JMNHgSTM58KMsSG2Ydb3Nt8K2ao4RMXLcQSsKxWFKNRb8tGK7Tn4Sks11gefJWR9JT2EQFzzhpws`
+>The XMR donation address is:    
+>`49JBVmpdkwqRoLxSZh7JMNHgSTM58KMsSG2Ydb3Nt8K2ao4RMXLcQSsKxWFKNRb8tGK7Tn4Sks11gefJWR9JT2EQFzzhpws`
 
-The LTC donation address is:    
-`LbNomrHpHE8cmQj2M1F6QasjRtCtiUpZtN`
+>The LTC donation address is:    
+>`LbNomrHpHE8cmQj2M1F6QasjRtCtiUpZtN`
 
-The ZEC donation address is:    
-`t1VmSHZ97zrEaE3G2b3FRNbiTeQTgR13kfG`
+>The ZEC donation address is:    
+>`t1VmSHZ97zrEaE3G2b3FRNbiTeQTgR13kfG`
